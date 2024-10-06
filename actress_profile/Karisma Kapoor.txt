@@ -1,0 +1,3 @@
+"Karisma Kapoor": {"Weight (approx.)": "in kilograms - 53 kg, in pounds - 117 lbs",
+        "Figure Measurements (approx.)": "34-24-35"
+    }

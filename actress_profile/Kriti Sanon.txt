@@ -1,0 +1,6 @@
+"Kriti Sanon": {
+        "Weight (approx.)": "in kilograms - 55 kg, in pounds - 121 lbs",
+        "Figure Measurements (approx.)": "34-26-34",
+        "Eye Colour": "Brown",
+        "Hair Colour": "Black"
+    }

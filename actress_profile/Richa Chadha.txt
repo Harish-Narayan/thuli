@@ -1,0 +1,6 @@
+"Richa Chadha": {
+        "Weight (approx.)": "in kilograms - 57 kg, in pounds - 126 lbs",
+        "Figure Measurements (approx.)": "34-28-34",
+        "Eye Colour": "Brown",
+        "Hair Colour": "Black"
+    }

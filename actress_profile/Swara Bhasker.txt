@@ -1,0 +1,6 @@
+"Swara Bhasker": {
+        "Weight (approx.)": "in kilograms - 55 kg, in pounds - 121 lbs",
+        "Figure Measurements (approx.)": "32-26-34",
+        "Eye Colour": "Dark Brown",
+        "Hair Colour": "Black"
+    }
