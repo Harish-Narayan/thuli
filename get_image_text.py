@@ -4,7 +4,7 @@ import google.generativeai as genai
 # from google.colab import userdata
 import PIL.Image
 import google.ai.generativelanguage as glm
-genai.configure(api_key= 'AIzaSyBET2W7lgxi2_600MBj9UQJ5KgQ5mUrcgk')
+genai.configure(api_key= '')
 
 def to_markdown(text):
     text = text.replace('•', '  *')

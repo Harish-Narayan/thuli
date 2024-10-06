@@ -7,7 +7,7 @@ import time  # Import time for sleep functionality
 
 # Set up the API key and configuration
 os.environ["GOOGLE_API_KEY"] = "AIzaSyBET2W7lgxi2_600MBj9UQJ5KgQ5mUrcgk"  # Replace with your actual API key
-genai.configure(api_key='AIzaSyBET2W7lgxi2_600MBj9UQJ5KgQ5mUrcgk')
+genai.configure(api_key='')
 
 def to_markdown(text):
     text = text.replace('•', '  *')

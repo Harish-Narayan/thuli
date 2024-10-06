@@ -17,11 +17,11 @@ from langchain_community.embeddings.fastembed import FastEmbedEmbeddings
 TOP_K = 5
 MAX_DOCS_FOR_CONTEXT = 5
 QDRANT_URL = "https://b47815b9-2834-49ae-8cbf-165d4126cfbe.europe-west3-0.gcp.cloud.qdrant.io:6333"
-QDRANT_API_KEY = os.getenv("QDRANT_API_KEY", "FNKyGP8L9j3U3vkWCwhda5nrB3cuPflwfnSWoNwVfMNE7kuTA0s8xg")  # Use your Qdrant API key
+QDRANT_API_KEY = os.getenv("QDRANT_API_KEY", "")  # Use your Qdrant API key
 QDRANT_COLLECTION_NAME = "ACTRESS_PROFILES"
 
 # Set the Cohere API key as an environment variable
-os.environ["COHERE_API_KEY"] = "cqzA1AZDRH3DgEzAWhXw3qYo6x4gqNvUdh8ARyCp"  # Use your Cohere API key
+os.environ["COHERE_API_KEY"] = ""  # Use your Cohere API key
 embedding_model = CohereEmbeddings(model="embed-english-v3.0", cohere_api_key=os.getenv("COHERE_API_KEY"))
 semantic_chunker_embed_model = FastEmbedEmbeddings(model_name="BAAI/bge-base-en-v1.5")
 
